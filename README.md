@@ -11,9 +11,7 @@ This repository contains slides of course of Interactive Graphics, and also ther
 
 ### Homework II
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=Homework-I-Interactive-Graphics)](https://github.com/Pancio-code/https://github.com/Pancio-code/Homework-II-Interactive-Graphics)
-
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=Homework-II-Interactive-Graphics)](https://github.com/Pancio-code/Homework-II-Interactive-Graphics)
 
 ### Final Project
 
