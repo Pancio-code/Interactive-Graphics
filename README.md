@@ -15,5 +15,5 @@ This repository contains slides of course of Interactive Graphics, and also ther
 
 ### Final Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=FallGuys)](https://github.com/SapienzaInteractiveGraphicsCourse/final-project-fall-guys)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SapienzaInteractiveGraphicsCourse&repo=inal-project-fall-guys)](https://github.com/SapienzaInteractiveGraphicsCourse/final-project-fall-guys)
 
